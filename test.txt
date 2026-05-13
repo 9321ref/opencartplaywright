@@ -1,0 +1,11 @@
+// this is test file 
+
+/*
+To get latest changes from the remote repository to local repository , you need to use git pull command.
+Option 1: Fetch and merge manually
+git fetch origin master
+git merge origin master
+(Or)
+Option 2: Fetch and merge automatically
+git pull origin master
+*/
