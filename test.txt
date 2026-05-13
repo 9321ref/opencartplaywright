@@ -9,3 +9,7 @@ git merge origin master
 Option 2: Fetch and merge automatically
 git pull origin master
 */
+
+
+// after the pull I am modyfing the txt and this modification is not updated in the local repository or remote repository
+// then I will write terminal --> git add 'filename'  then , git commit -m "commit message"
